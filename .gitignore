@@ -1,0 +1,13 @@
+*.txt
+*.log
+*.png
+.DS_Store
+/out
+/JavaRushTasks
+*.iml
+/.idea
+*.properties
+*.part1
+*.part2
+*.part3
+hello
